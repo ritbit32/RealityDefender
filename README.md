@@ -3,7 +3,7 @@
 A mobile AR target-practice mini-game built in **Unity with AR Foundation** for the BOA XR *XR Game Developer* assignment.
 Scan a surface, tap to place the arena, then turn your phone into a cannon and blast the floating energy targets.
 
-**Gameplay video and Shader Graph screenshots:** [Google Drive folder](DRIVE_LINK_HERE)
+**Gameplay video and Shader Graph screenshots:** [Google Drive folder](https://drive.google.com/drive/folders/1p_rHdq3QYuwx5S1fPoVJ5S8Grjk7uZfu?usp=sharing)
 
 ---
 
