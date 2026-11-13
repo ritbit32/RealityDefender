@@ -5,6 +5,8 @@ Scan a surface, tap to place the arena, then turn your phone into a cannon and b
 
 **Gameplay video and Shader Graph screenshots:** [Google Drive folder](https://drive.google.com/drive/folders/1p_rHdq3QYuwx5S1fPoVJ5S8Grjk7uZfu?usp=sharing)
 
+An installable **APK** is in the Drive folder (Android, ARCore-supported device required).
+
 ---
 
 ## Tech
@@ -64,6 +66,7 @@ All values are exposed as material properties (`BaseColor`, `RimColor`, `RimPowe
 2. Open `Assets/Scenes/RealityDefender.unity`.
 3. **In the editor:** press Play (XR Simulation is enabled for the editor). Hold right mouse + WASD to move, left-click a detected plane to place, and click FIRE.
 4. **On device:** File → Build Profiles → Android → Build And Run on an [ARCore-supported phone](https://developers.google.com/ar/devices).
+   Or just install `RealityDefender.apk` from the Drive folder (you may need to allow installs from unknown sources).
 
 ## How to play
 1. Move the phone slowly to scan the floor or a table.
